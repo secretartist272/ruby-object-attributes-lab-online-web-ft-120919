@@ -5,4 +5,6 @@ class Person
   end
   
   def name
-    @name = 
+    @name = "truthy value" 
+  end
+end
